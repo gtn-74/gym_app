@@ -12,7 +12,7 @@
 | club_team           | string     | not null                       |
 
 ### Association
-- has_many :indexs
+- has_many :indexes
 - has_many :performances
 
 ## indexテーブル
